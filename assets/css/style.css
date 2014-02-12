@@ -27,9 +27,9 @@ h1 {
 
 .shape2 {
   display: block;
-  width: 300px;
-  height: 300px;
-  margin: 20px auto 20px auto;
+  width: 400px;
+  height: 400px;
+  margin: 10px auto 10px auto;
   border: 6px solid #575757;
   -webkit-border-radius: 9999px;
   -moz-border-radius: 9999px;
