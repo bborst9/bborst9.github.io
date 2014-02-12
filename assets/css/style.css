@@ -24,3 +24,15 @@ h1 {
   -moz-border-radius: 9999px;
   border-radius: 9999px;
 }
+
+.shape2 {
+  display: block;
+  width: 500px;
+  height: 500px;
+  margin: 20px auto 20px auto;
+  border: 6px solid #556051;
+  background-image: url(1.gif);
+  -webkit-border-radius: 9999px;
+  -moz-border-radius: 9999px;
+  border-radius: 9999px;
+}
