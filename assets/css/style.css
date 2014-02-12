@@ -25,11 +25,7 @@ h1 {
   border-radius: 9999px;
 }
 
-.shape2 {
-  display: block;
-  width: 140px;
-  height: 140px;
-  -webkit-border-radius: 9999px;
-  -moz-border-radius: 9999px;
-  border-radius: 9999px;
+.img-circle {
+  width: 200px;
+  height: 200px;
 }
