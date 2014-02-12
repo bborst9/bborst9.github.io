@@ -1,0 +1,33 @@
+.Round {
+  -webkit-border-radius: 9999px;
+  -moz-border-radius: 9999px;
+  border-radius: 9999px;
+}
+.jumbotron {
+  background-color: #ddffdd;
+  border: 2px solid #bbddbb;
+}
+h4 {
+  background-color: #ddddff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  border: 2px solid #bbbbdd;
+}
+.shape {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: #ddddff;
+  margin: 5px;
+  border: 6px solid #bbbbdd;
+  background-image: url(1.gif);
+  -webkit-border-radius: 9999px;
+  -moz-border-radius: 9999px;
+  border-radius: 9999px;
+}
+a {
+  color: #999999;
+}
